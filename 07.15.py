@@ -1,6 +1,3 @@
-# 07.15
-# def 함수 9번부터
-'''
 a= int(input("첫번째 정수를 입력: "))
 b= int(input("두번째 정수를 입력: "))
 if a == b:
@@ -17,17 +14,7 @@ elif a!= b:
             if b %i ==0:
                 i==i
         print(i)
-'''
-def testPrime():
-    for n in range(2,101):
-        A={}
-        A.approve[n]
-        for i in range(2,101):
-            if n != i :
-                if n%i ==0:
-                    remove(A[n])
-        print(A)
-testPrime()
+
 
 
 
